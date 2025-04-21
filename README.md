@@ -55,7 +55,7 @@
 ## Output:
 
 
-### Name:
+### Name: GEETHAPRIYAN A S
 ### Register Number: 24900874
 
 ## RESULT:
